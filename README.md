@@ -1,14 +1,17 @@
 # Code Challenge: 
 
-![]()
+![](https://raw.githubusercontent.com/twhipple/Hungarian_Vowel_Harmony/main/Images/budapest_Luca_Cinacchio.jpg)
 
-**
+*Bridge connecting Buda and Pest - similar to connecting word endings! Source: Luca_Cinacchio, freeimages.com*
 
 
 ## Hungarian_Vowel_Harmony
 
 In this Repo I will attempt to code one of the CodeWars Katas - Hungarian Vowel Harmony. This was a great kata. I like how it introduced me to a language concept that I was not familiar with and doesn't exist in English. Plus, I enjoyed how I was able to create this word ending using Python and coding!
 
+![](https://raw.githubusercontent.com/twhipple/Hungarian_Vowel_Harmony/main/Images/Hungarian_flag_Csaba_Moldovan.jpg)
+
+*Hungarian flag - it has a nice harmony to it! Source:Csaba_Moldovan, freeimages.com*
 
 ## Task
 
@@ -41,4 +44,6 @@ This kata was written by: suic
 
 Thank you to Codewars for helping me practice my Python skills.
 
-![]()
+![](https://raw.githubusercontent.com/twhipple/Hungarian_Vowel_Harmony/main/Images/three-language-keyboard-Alex_L'Azzurro.jpg)
+
+*Keyboard with multiple languages (probably not Hungarian). Source: Alex_L'Azzurro, freeimages.com *
